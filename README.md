@@ -1,5 +1,5 @@
 # Titanic - Machine Learning from Disaster
-!https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/e9/ae9d6160-9cdd-59fa-81f7-b79f2d76feb1/5711a9c456859.image.jpg
+![Titanic](https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/e9/ae9d6160-9cdd-59fa-81f7-b79f2d76feb1/5711a9c456859.image.jpg)
 * Kindly review my Kaggle notebook to access the interactive plots.
 
 -link-
