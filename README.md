@@ -2,7 +2,7 @@
 ![Titanic](https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/e9/ae9d6160-9cdd-59fa-81f7-b79f2d76feb1/5711a9c456859.image.jpg)
 * Kindly review my Kaggle notebook.
 
-[-link-](https://www.kaggle.com/code/abdullahdahabre23/titanic-machine-learning-from-disaster)
+https://www.kaggle.com/code/abdullahdahabre23/titanic-machine-learning-from-disaster
 
 ### Description
 This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
